@@ -1,0 +1,15 @@
+{
+  "name": "insomnia-plugin-edgegrid",
+  "version": "0.1.0",
+  "description": "Insomnia plugin for authenticating Akamai API requests",
+  "main": "index.js",
+  "insomnia": {
+    "name": "edgegrid",
+    "description": "Generate EdgeGrid authentication for Akamai API requests"
+  },
+  "author": "Michael Steinlechner <michael@schwabix.de>",
+  "license": "ISC",
+  "dependencies": {
+    "edgegrid": "^3.0.8"
+  }
+}
