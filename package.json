@@ -1,11 +1,11 @@
 {
   "name": "insomnia-plugin-edgegrid",
-  "version": "1.0.0",
-  "description": "Authenticating Akamai API requests for the Insomnia REST Client",
+  "version": "1.0.1",
+  "description": "DEPRECATED - Authenticating Akamai API requests for the Insomnia REST Client",
   "main": "index.js",
   "insomnia": {
     "name": "edgegrid",
-    "description": "Generate EdgeGrid authentication for Akamai API requests"
+    "description": "DEPRECATED - Generate EdgeGrid authentication for Akamai API requests"
   },
   "author": "Michael Steinlechner <michael@schwabix.de>",
   "license": "MIT",
