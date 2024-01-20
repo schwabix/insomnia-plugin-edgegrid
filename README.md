@@ -1,5 +1,8 @@
 # Akamai EdgeGrid Authorization for Insomnia REST Client
 
+!!! DEPRECATED !!! Use the actively maintained plugin https://github.com/rveldhuizen/insomnia-plugin-akamai-edgegrid instead.
+
+
 This is a plugin for the [Insomnia REST Client](https://insomnia.rest/)
 
 Akamai EdgeGrid Authorization: https://developer.akamai.com/legacy/introduction/Client_Auth.html
